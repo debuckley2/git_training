@@ -1,5 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 lol
 hello
 text
 something
+=======
+hi
+>>>>>>> e6336950c2a48087a70bf928fb7ed1eea9ba1690
